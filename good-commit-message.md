@@ -3,3 +3,6 @@
 add your tip
 
 - Start a commit message with a verb eg. `add`, `change` etc
+
+This is the first commit
+
