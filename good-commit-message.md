@@ -3,4 +3,5 @@
 add your tip
 
 - Start a commit message with a verb eg. `add`, `change` 
-This is what I can do with git this is someti
+This is what I can do with git this is someting
+This is now what we have to work on.
